@@ -1,22 +1,24 @@
 html {
 	background-color: whitesmoke;
+	padding-left: 15px;
+	padding-right: 15px;
+
 }
 
 .heading {
 	text-align: center;
-	background-color: dimgray;
+	background-color: lightgray;
 	color:black;
 }
 
 
 h2 {
 
-   background-color: dimgray;
+   background-color: lightgray;
    color:black;
 }
 
+.experience p {
 
-h4,p {
-
-    ;
+	padding-right: 300px;
 }
